@@ -1,10 +1,10 @@
-# virt-enabler
+# Virt-Enabler
 
 ## Introduction
-virt-enabler is a simple script for enabling nested virtualization in VirtualBox on Windows systems. It is planned to extend support to Linux systems in the future.
+Virt-Enabler is a simple script for enabling nested virtualization in VirtualBox on Windows systems. It is planned to extend support to Linux systems in the future.
 
 ## Purpose
-In VirtualBox, the option for nested virtualization (AMD-V) is sometimes grayed out, preventing users from enabling it. virt-enabler provides a basic solution to this issue by modifying VirtualBox's VM configurations to enable nested virtualization.
+In VirtualBox, the option for nested virtualization (AMD-V) is sometimes grayed out, preventing users from enabling it. Virt-Enabler provides a basic solution to this issue by modifying VirtualBox's VM configurations to enable nested virtualization.
 
 ## Usage
 1. Run the `virt-enabler.bat` script.
