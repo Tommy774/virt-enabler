@@ -1,5 +1,7 @@
 # Virt-Enabler
 
+![screen-powershell](screen-powershell.png)
+
 ## Introduction
 Virt-Enabler is a simple script for enabling nested virtualization in VirtualBox on Windows systems. It is planned to extend support to Linux systems in the future.
 
